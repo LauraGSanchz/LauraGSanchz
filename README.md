@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LauraGSanchz
 - 👀 I’m interested in data!
 - 🌱 I’m currently learning python, data science, SQL.
-- 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me: message me!
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm totally new here!
